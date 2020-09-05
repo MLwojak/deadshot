@@ -1,5 +1,8 @@
 #!/bin/bash
 
+#by jon-boopin
+#arpspoof/dsniff under the GNU license
+
 #Request for sudo
 if [ "$(id -u)" -ne 0 ]; then
         echo 'This script must be run as root.' >&2
