@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Deadshot v1
-#by jon-boopin
+#by MadDogofShimano
 #arpspoof/dsniff under the GNU license
 
 #Request for sudo
